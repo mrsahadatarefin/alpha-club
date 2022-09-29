@@ -1,13 +1,17 @@
 import React, { useEffect, useState } from 'react';
+import Blog from '../Blog/Blog';
 
 
 import Product from '../product/Product';
 
 
+  
+
 
 import'./Shop.css'
 
 const Shop = () => {
+    
    
     
 
@@ -24,7 +28,8 @@ const Shop = () => {
     const handleClick=(product)=>{
         const newCart =[...cart,product];
         setCart(newCart);
-        console.log(newCart)
+        
+        // console.log(product.time)
     }
     return (
         <div className='shop-container'>
@@ -69,10 +74,10 @@ Products.map(product=> <Product
 
     
     <div className='add-btn'>
-        <button>10 <span>m</span></button>
-        <button>20 <span>m</span></button>
-        <button>30 <span>m</span></button>
-        <button>40 <span>m</span></button>
+        <button >10 <span>m</span></button>
+        <button >20 <span>m</span></button>
+        <button >30 <span>m</span></button>
+        <button >40 <span>m</span></button>
     </div>
 
 
@@ -82,13 +87,16 @@ Products.map(product=> <Product
 <div className='Details'>
 <h2>Exercise Details</h2>
 <div className='Exercise-time'>
-    <p>Exercise time:</p>
+    <p>Exercise time: {cart.time}</p>
 </div>
 <div className='Exercise-time'>
     <p>Break time:</p>
 </div>
 </div>
 <button className='active-btn'>Activity Completed</button>
+                </div>
+                <div>
+                    <Blog></Blog>
                 </div>
         </div>
         
