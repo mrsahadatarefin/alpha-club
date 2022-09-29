@@ -10,14 +10,14 @@
   
   {
     "id":"2",
-    "image":"pixabay.com/photos/gym-sport-fitness-biceps-arms-2793007/",
+    "image":"https://www.shutterstock.com/image-photo/shirtless-man-flipping-heavy-tire-gym-713015449",
      "name":"Dumbbell rows",
    " age": "20-35",
     "time":"30m"
   },
   {
    " id":"3",
-   " image":"pixabay.com/photos/abs-exercise-fitness-gym-athlete-1203880/",
+   " image":"https://www.shutterstock.com/image-photo/shirtless-man-flipping-heavy-tire-gym-713015449",
    "name":"Abs Fab",
     "age": "20-35",
    " time":"30m" 
