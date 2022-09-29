@@ -1,10 +1,10 @@
 [
     {
       "id": "1",
-    "image":"pixabay.com/photos/kettlebell-stretching-fitness-2052765/" ,
+    "image":"https://www.shutterstock.com/image-photo/sport-battle-ropes-session-attractive-young-1420194143",
     "name":"Squats",
     "age": "20-25",
-    "time":"30m"
+    "time":"30"
     },
     
   
@@ -12,36 +12,36 @@
     "id":"2",
     "image":"https://www.shutterstock.com/image-photo/shirtless-man-flipping-heavy-tire-gym-713015449",
      "name":"Dumbbell rows",
-   " age": "20-35",
-    "time":"30m"
+   "age": "20-35",
+    "time":"30"
   },
   {
    " id":"3",
-   " image":"https://www.shutterstock.com/image-photo/shirtless-man-flipping-heavy-tire-gym-713015449",
+   "image":"https://www.shutterstock.com/image-photo/muscular-attractive-caucasian-bearded-man-kneeling-1278907051",
    "name":"Abs Fab",
     "age": "20-35",
-   " time":"30m" 
+   "time":"30" 
   },
   {
     "id":"4",
-    "image":"pixabay.com/photos/pushups-sports-beach-gymnastics-4603956/",
+    "image":"https://www.shutterstock.com/image-photo/strong-muscular-man-hits-tire-sledgehammer-718777456",
     "name":"pushups",
     "age": "20-35",
-    "time":"30m"
+    "time":"30"
   },
   {
    "id":"5",
-    "image":"pixabay.com/photos/barbell-bodybuilding-effort-1839086/",
-   " name":"Single-leg" ,
+    "image":"https://www.shutterstock.com/image-photo/adult-grayhaired-male-boxer-workout-gym-1642189324",
+   "name":"Single-leg",
     "age": "20-35",
-    "time":"30m"
+    "time":"30"
   },
   {
    " id":"6",
-    "image":"pixabay.com/photos/dark-effort-exercise-fitness-gym-1839088/",
+    "image":"https://www.shutterstock.com/image-photo/caucasian-man-practicing-weightlifting-gym-male-1604556622",
     "name":"Side planks",
     "age": "20-35",
-   " time":"30m"
+   "time":"30"
   }
   
   ]
