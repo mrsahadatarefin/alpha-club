@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+    "image":"pixabay.com/photos/kettlebell-stretching-fitness-2052765/" ,
+    "name":"Squats",
+    "age": "20-25",
+    "time":"30m"
+    },
+    
+  
+  {
+    "id":"2",
+    "image":"pixabay.com/photos/gym-sport-fitness-biceps-arms-2793007/",
+     "name":"Dumbbell rows",
+   " age": "20-35",
+    "time":"30m"
+  },
+  {
+   " id":"3",
+   " image":"pixabay.com/photos/abs-exercise-fitness-gym-athlete-1203880/",
+   "name":"Abs Fab",
+    "age": "20-35",
+   " time":"30m" 
+  },
+  {
+    "id":"4",
+    "image":"pixabay.com/photos/pushups-sports-beach-gymnastics-4603956/",
+    "name":"pushups",
+    "age": "20-35",
+    "time":"30m"
+  },
+  {
+   "id":"5",
+    "image":"pixabay.com/photos/barbell-bodybuilding-effort-1839086/",
+   " name":"Single-leg" ,
+    "age": "20-35",
+    "time":"30m"
+  },
+  {
+   " id":"6",
+    "image":"pixabay.com/photos/dark-effort-exercise-fitness-gym-1839088/",
+    "name":"Side planks",
+    "age": "20-35",
+   " time":"30m"
+  }
+  
+  ]
