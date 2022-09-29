@@ -18,7 +18,7 @@ const [breakTime,setBreakTime]=useState(0)
     let totalTime = 0;
     for (let i = 0; i < newCart.length; i++) {
       const product = newCart[i];
-      totalTime = totalTime + Number(product.time);
+      totalTime = totalTim + Number(product.time);
     }
     setTotal(totalTime);
     setCart(newCart);
