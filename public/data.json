@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-    "image":"https://www.shutterstock.com/image-photo/sport-battle-ropes-session-attractive-young-1420194143",
+    "image":"https://burst.shopifycdn.com/photos/core-strength-fitness.jpg?width=925&format=pjpg&exif=1&iptc=1",
     "name":"Squats",
     "age": "20-25",
     "time":"30"
@@ -10,35 +10,35 @@
   
   {
     "id":"2",
-    "image":"https://as1.ftcdn.net/v2/jpg/00/58/31/50/1000_F_58315099_ebBR6IH6XSYApFxcATBCj3WbbPYqPL4u.jpg",
+    "image":"https://burst.shopifycdn.com/photos/heavy-lifting-man.jpg?width=925&format=pjpg&exif=1&iptc=1",
      "name":"Dumbbell rows",
    "age": "20-35",
     "time":"25"
   },
   {
    " id":"3",
-   "image":"https://www.shutterstock.com/image-photo/muscular-attractive-caucasian-bearded-man-kneeling-1278907051",
+   "image":"https://burst.shopifycdn.com/photos/cross-fit-rope-workout.jpg?width=925&format=pjpg&exif=1&iptc=1",
    "name":"Abs Fab",
     "age": "20-35",
    "time":"20" 
   },
   {
     "id":"4",
-    "image":"https://www.shutterstock.com/image-photo/strong-muscular-man-hits-tire-sledgehammer-718777456",
+    "image":"https://burst.shopifycdn.com/photos/gym-weight-lifting.jpg?width=925&format=pjpg&exif=1&iptc=1",
     "name":"pushups",
     "age": "20-35",
     "time":"15"
   },
   {
    "id":"5",
-    "image":"https://www.shutterstock.com/image-photo/adult-grayhaired-male-boxer-workout-gym-1642189324",
+    "image":"https://burst.shopifycdn.com/photos/one-arm-push-up.jpg?width=925&format=pjpg&exif=1&iptc=1",
    "name":"Single-leg",
     "age": "20-35",
     "time":"35"
   },
   {
    " id":"6",
-    "image":"https://www.shutterstock.com/image-photo/caucasian-man-practicing-weightlifting-gym-male-1604556622",
+    "image":"https://burst.shopifycdn.com/photos/fitness-balancing.jpg?width=925&format=pjpg&exif=1&iptc=1",
     "name":"Side planks",
     "age": "20-35",
    "time":"20"

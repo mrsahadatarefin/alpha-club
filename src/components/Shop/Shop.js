@@ -37,9 +37,9 @@ const [breakTime,setBreakTime]=useState(0)
       </div>
       <div className="cart-container">
         <div className="person-info">
-          <div className="">
-            <img height={60 } src={logo} alt="" />
-            <h3>Sahadat Arefin</h3>
+          <div >
+            <div className="img"><img height={60  } src={logo} alt="" />
+            <h3>Sahadat Arefin</h3></div>
             <div>
               <p>
                 <small>Dhaka bangladesh</small>
@@ -84,10 +84,10 @@ const [breakTime,setBreakTime]=useState(0)
         <div className="Details">
           <h2>Exercise Details</h2>
           <div className="Exercise-time">
-            <p>Exercise time: {total}</p>
+            <p>Exercise time: {total}s</p>
           </div>
           <div className="Exercise-time">
-            <p>Break time:{breakTime}</p>
+            <p>Break time:{breakTime}m</p>
           </div>
         </div>
         <button className="active-btn">Activity Completed</button>
