@@ -12,3 +12,59 @@ body{
         grid-template-columns: repeat(3,1fr);
         gap: 45px;
     }
+    .person{
+      display: flex;
+      justify-content: space-around;
+      background-color: aquamarine;
+      border-radius: 10px;
+      font-size:  bold 18px ;
+    }
+    .person-info{
+      display: flex;
+      justify-content: center;
+    }
+    .cart-container{
+      background-color: bisque;
+      padding: 10px;
+      border-radius: 10px;
+    }
+    
+      .Add-A-Break{
+        background-color: aquamarine;
+        margin-top: 30px;
+        border-radius: 10px;
+        padding: 5px;
+       
+
+      }
+      .add-btn button{
+        color: rgb(0, 0, 0);
+        background-color: rgb(157, 192, 255);
+        padding: 10px;
+        font-size: bold 20px;
+        margin: 10px;
+        border-radius:   25px;
+        border: none;
+      }
+      .break{
+        display: flex;
+        justify-content: center;
+      }
+      .add-btn{
+        display: flex;
+        justify-content: center;
+      }
+      .Exercise-time{
+        font-size: 20px;
+        background-color: aquamarine;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px;
+      }
+      .active-btn{
+        background-color: rgb(58, 58, 248);
+        font-size: 18px;
+        padding: 10px;
+      width:100%;
+      color: rgb(255, 255, 255);
+      }
