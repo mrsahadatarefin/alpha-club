@@ -1,9 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import Product from '../product/Product';
-import "./player-1.png"
+
+
 import'./Shop.css'
 
 const Shop = () => {
+   
+
+
     const [cart,setCart]= useState([]);
     const [Products , setProducts] =useState([]);
     useEffect(()=>{
@@ -28,7 +32,9 @@ Products.map(product=> <Product
 }
             </div>
             <div className='cart-container'>
-                <div className='person-info'><div >
+           <cart></cart>
+
+            <div className='person-info'><div >
 <img src="player-1.png" alt=""  />
     <h3>Sahadat Arefin</h3>
     <div><p><small>Dhaka bangladesh</small></p></div></div>
@@ -75,8 +81,7 @@ Products.map(product=> <Product
 </div>
 </div>
 <button className='active-btn'>Activity Completed</button>
-
-            </div>
+                </div>
         </div>
         
     );
